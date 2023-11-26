@@ -5,7 +5,7 @@ Progetto intermedio di Laboratiorio di Programmazione, UniPD, A.A. 2023-2024
 È raccomandata la compilazione tramite CMake.
 1. Scaricare l'ultima versione dalla [repository github](https://github.com/tonno7103/prog_intermedio). Per clonare il progetto da git, eseguire il seguente comando in una cartella:
     ```bash
-    git clone [https://github.com/tonno7103/prog_intermedio.git](https://github.com/Rimaro03/progetto-programmazione.git)
+    git clone https://github.com/Rimaro03/progetto-programmazione.git
     ```
 2. Entrare nella cartella del progetto, e compilare con cmake tramite i seguenti comandi:
 
