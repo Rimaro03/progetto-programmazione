@@ -1,0 +1,3 @@
+/home/leonardo/kDrive/UNI_kDrive/programmazione/prog_intermedio/build/CMakeFiles/progetto_intermedio.dir
+/home/leonardo/kDrive/UNI_kDrive/programmazione/prog_intermedio/build/CMakeFiles/edit_cache.dir
+/home/leonardo/kDrive/UNI_kDrive/programmazione/prog_intermedio/build/CMakeFiles/rebuild_cache.dir

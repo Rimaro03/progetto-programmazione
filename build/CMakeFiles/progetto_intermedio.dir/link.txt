@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/progetto_intermedio.dir/src/main.cpp.o CMakeFiles/progetto_intermedio.dir/src/book.cpp.o CMakeFiles/progetto_intermedio.dir/src/date.cpp.o CMakeFiles/progetto_intermedio.dir/src/bookshelf.cpp.o -o progetto_intermedio 
